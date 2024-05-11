@@ -1,0 +1,25 @@
+
+
+
+
+
+.title{
+	text-align:center;
+}
+.center{
+	display: flex;
+	justify-content : center;
+	align-content: center;
+}
+
+button:hover {
+  background-color: rgb(140, 140, 182);
+}
+
+
+
+
+
+
+
+
